@@ -1,0 +1,7 @@
+*.env
+*.pem
+*.key
+*.crt
+backend/config/firebaseServiceAccount.json
+.firebaseServiceAccount.json
+node_modules/
