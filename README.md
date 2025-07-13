@@ -1,3 +1,5 @@
+Deployed link: https://foodlens-3859a.web.app/
+
 An AI-powered for intelligent vegetable detection and personalized recipe generation.
 FoodLens combines computer vision and generative AI to help users discover healthy, sustainable recipes from ingredients they already have with multilingual support, nutrition information, and cooking assistance.
 
